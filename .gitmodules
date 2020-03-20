@@ -1,0 +1,9 @@
+[submodule "dep/SDL"]
+	path = dep/SDL
+	url = https://github.com/phoenix-engine/SDL.git
+[submodule "dep/light"]
+	path = dep/light
+	url = https://github.com/phoenix-engine/light.git
+[submodule "dep/light-cells"]
+	path = dep/light-cells
+	url = https://github.com/phoenix-engine/light-cells.git
